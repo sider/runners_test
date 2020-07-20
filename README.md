@@ -1,2 +1,3 @@
 # runners_test
-Test repository for sider/runners
+
+This is a test repository for [sider/runners](https://github.com/sider/runners)
