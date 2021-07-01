@@ -1,1 +1,4 @@
-ignore: ["*.md", "*.txt"]
+ignore:
+  - "*.md"
+  - "*.txt"
+  - "ignored/**"
