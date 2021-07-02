@@ -1,1 +1,3 @@
-ignore: []
+linter:
+  eslint:
+    root_dir: "foo"
